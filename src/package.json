@@ -1,0 +1,20 @@
+{
+  "name": "Usage",
+  "version": "3.0.0",
+  "description": "Live demo",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/4j7m47vlm4",
+  "main": "index.js",
+  "dependencies": {
+    "@date-io/date-fns": "2.8.1",
+    "@material-ui/core": "latest",
+    "@material-ui/icons": "4.9.1",
+    "@material-ui/lab": "4.0.0-alpha.56",
+    "@material-ui/pickers": "3.2.10",
+    "date-fns": "2.16.1",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-router-dom": "5.2.0",
+    "recharts": "1.8.5"
+  }
+}
